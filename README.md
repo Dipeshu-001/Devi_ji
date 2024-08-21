@@ -11,7 +11,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207)](https://repl.it/github/Debanjan-San/WhatsApp-Bot-Devi)
+[![Deploy](https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207)](https://repl.it/github/Dipeshu-001/Devi_ji)
 </div>
 
 # Devi Bot
